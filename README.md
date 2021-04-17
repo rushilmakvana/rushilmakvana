@@ -1,8 +1,8 @@
 <h2> Hi, I'm Rushil Makvana! <img src="https://media.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif" width="70"></h2>
 <!-- <p><em>Full-stack Developer @ <a href="https://provi.com.br/">Provi</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 </em></p>
-<img src="dino.gif"/>
-<p> Developer 👽.<p/>
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
+<h3 align="center">I'm a Programmer, Developer, and Freelancer!!</h3>
 
 ```javascript
 const Rushil = {
