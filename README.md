@@ -1,11 +1,11 @@
-<h2> Hi, I'm Rushil Makvana! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h2> Hi, I'm Rushila Makvana! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <!-- <p><em>Full-stack Developer @ <a href="https://provi.com.br/">Provi</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 </em></p>
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 <h3 align="center">I'm a Programmer, Developer, and Freelancer!!</h3>
 
 ```javascript
-const Rushil = {
+const Rushila = {
   skills: ["Full stack developer", "Android Developer", "Programmer"],
   programming: {
     languages: [
